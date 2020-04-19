@@ -19,7 +19,7 @@
   "keywords": [
     "jupyter",
     "notebook",
-    "R",
+    "IRkernel",
     "binder",
     "browser"
   ],
